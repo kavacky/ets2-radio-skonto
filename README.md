@@ -7,3 +7,5 @@ I hope you can forgive us, George.
 Listen to the real thing here: https://radioskonto.lv/player/
 
 Based on "LOCAL RADIO" mod by /u/DeanedUp (D9).
+
+Subscribe at Steam Workshop here: https://steamcommunity.com/sharedfiles/filedetails/?id=2409173307

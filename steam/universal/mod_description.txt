@@ -1,0 +1,7 @@
+Changes the Scania S and R dashboards to feature [red]"RADIO SKONTO" on 107.2 MHz[normal] for Latvian truckers and real Radio Skonto connoisseurs.
+
+I hope you can forgive us, George.
+
+Listen to the real thing here: [red]https://radioskonto.lv/player/[normal]
+
+Based on "LOCAL RADIO" mod by [blue]/u/DeanedUp (D9)[normal].

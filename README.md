@@ -1,5 +1,7 @@
 ### 107.2 Radio Skonto mod for Euro Truck Simulator 2
 
+![Screenshot](https://github.com/kavacky/ets2-radio-skonto/blob/main/screenshots/screenshot-2.png?raw=true)
+
 Changes the Scania S and R dashboards to feature "RADIO SKONTO" on 107.2 MHz for Latvian truckers and real Radio Skonto connoisseurs.
 
 I hope you can forgive us, George.
